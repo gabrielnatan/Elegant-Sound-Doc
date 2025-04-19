@@ -1,41 +1,53 @@
-# Website
+# 🎧 Elegant Sound Doc
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Documentação oficial do projeto **Elegant Sound**, uma plataforma voltada para experiências de áudio elegantes, intuitivas e modernas.
 
-### Installation
+## 📚 Sobre o Projeto
 
-```
-$ yarn
-```
+Este repositório contém toda a documentação relacionada ao projeto **Elegant Sound**, incluindo:
 
-### Local Development
+- Especificações técnicas  
+- Fluxos de usuário  
+- Requisitos funcionais e não funcionais  
+- Padrões de design e arquitetura  
 
-```
-$ yarn start
-```
+## 🛠 Estrutura
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+---
+.  
+├── assets/               # Imagens, ícones, diagramas  
+├── docs/                 # Documentos em Markdown  
+├── README.md             # Este arquivo  
+---
 
-### Build
+## 🚀 Como usar
 
-```
-$ yarn build
-```
+1. Clone o repositório:
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+---
+git clone git@github.com:gabrielnatan/Elegant-Sound-Doc.git
+---
 
-### Deployment
+2. Navegue até a pasta:
 
-Using SSH:
+---
+cd Elegant-Sound-Doc
+---
 
-```
-$ USE_SSH=true yarn deploy
-```
+3. Explore os arquivos da documentação.
 
-Not using SSH:
+## 🧠 Contribuindo
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Contribuições são bem-vindas! Se você tiver sugestões ou correções:
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Faça um fork do repositório  
+- Crie uma branch com sua feature/fix  
+- Abra um Pull Request explicando sua proposta  
+
+## 👨‍💻 Autor
+
+- [@gabrielnatan](https://github.com/gabrielnatan)
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo **LICENSE** para mais detalhes.
