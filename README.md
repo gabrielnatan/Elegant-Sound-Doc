@@ -13,26 +13,27 @@ Este repositório contém toda a documentação relacionada ao projeto **Elegant
 
 ## 🛠 Estrutura
 
----
+```
 .  
 ├── assets/               # Imagens, ícones, diagramas  
 ├── docs/                 # Documentos em Markdown  
 ├── README.md             # Este arquivo  
----
+```
+
 
 ## 🚀 Como usar
 
 1. Clone o repositório:
 
----
+```
 git clone git@github.com:gabrielnatan/Elegant-Sound-Doc.git
----
+```
 
 2. Navegue até a pasta:
 
----
+```
 cd Elegant-Sound-Doc
----
+```
 
 3. Explore os arquivos da documentação.
 
