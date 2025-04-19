@@ -1,0 +1,61 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.header{
+  width:100%;
+  height: 90vh;
+}
+
+.container{
+  max-width: 1280px;
+  padding: 0 20px;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+
+}
+
+.text{
+  flex:1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title{
+  font-size: 7rem;
+  line-height: 6.5rem;
+}
+.description{
+  font-size: 1.1rem;
+  text-align: justify;
+  line-height: 1.5rem;
+}
+
+.images{
+  background-image: url('./../../static/img/background.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 110%;
+  flex:2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.image_web{
+  position: relative;
+  top:-100px;
+  left: 150px;
+
+}
+
+.image_mobile{
+  position: relative;
+  top: 50px;
+  right: 50px;
+}
